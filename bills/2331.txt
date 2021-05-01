@@ -1,0 +1,15 @@
+	 Welcome Webcipher Retail 
+ Bill Number: 2331
+ Customer Name:priya 
+ Phone No: 1244666
+======================================
+ Product		QTY		Price
+======================================
+ Bath Soap		1		40
+ Face wash		2		120
+--------------------------------------
+ Cosmetic Tax :			Rs.1.6
+ Grocery Tax :			Rs.0.0
+ Cold drink Tax :			Rs.0.0
+ Total Bill :			161.6
+--------------------------------------

@@ -1,0 +1,15 @@
+	 Welcome Webcipher Retail 
+ Bill Number: 6235
+ Customer Name:priyanka 
+ Phone No: 123444
+======================================
+ Product		QTY		Price
+======================================
+ Frooti		2		100
+ Thumbs Up		1		45
+--------------------------------------
+ Cosmetic Tax :			Rs.0.0
+ Grocery Tax :			Rs.0.0
+ Cold drink Tax :			Rs.7.25
+ Total Bill :			152.25
+--------------------------------------
